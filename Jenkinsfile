@@ -26,7 +26,7 @@ pipeline {
         always {
             echo 'finished all stages'
         }
-        succes {
+        success {
             echo 'jenkins pipeline successfull'
         }
         failure {
