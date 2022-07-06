@@ -7,3 +7,5 @@ def createApp():
     print('creating app')
 
 createApp()
+
+print('print added from feature 1')
